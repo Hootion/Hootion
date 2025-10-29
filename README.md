@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi,I am a student,I will share my project here
 
 <!--
 **Hootion/Hootion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
